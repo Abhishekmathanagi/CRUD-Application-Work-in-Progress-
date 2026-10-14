@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Mechanical Keyboard", "price": 4999.0 },
+  { "id": 2, "name": "Wireless Mouse", "price": 1299.5 },
+  { "id": 3, "name": "27-inch Monitor", "price": 17999.0 },
+  { "id": 4, "name": "USB-C Hub", "price": 2199.0 },
+  { "id": 5, "name": "Laptop Stand", "price": 1499.0 }
+]
